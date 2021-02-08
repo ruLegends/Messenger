@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>766481585160-7f7q8b57gor38um3us3bd6s89aa9eohn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.766481585160-7f7q8b57gor38um3us3bd6s89aa9eohn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCLW7SjhARa64bRMxSZJNUECTkW3wF8FYc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>766481585160</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>test.Messaging</string>
+	<key>PROJECT_ID</key>
+	<string>authorise-c3306</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authorise-c3306.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:766481585160:ios:810f784aea10bdf19eedbd</string>
+	<key>DATABASE_URL</key>
+	<string>https://authorise-c3306.firebaseio.com</string>
+</dict>
+</plist>
